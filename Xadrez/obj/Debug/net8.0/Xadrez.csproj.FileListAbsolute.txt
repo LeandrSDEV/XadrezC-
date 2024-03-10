@@ -1,0 +1,15 @@
+L:\C#\Xadrez\bin\Debug\net8.0\Xadrez.exe
+L:\C#\Xadrez\bin\Debug\net8.0\Xadrez.deps.json
+L:\C#\Xadrez\bin\Debug\net8.0\Xadrez.runtimeconfig.json
+L:\C#\Xadrez\bin\Debug\net8.0\Xadrez.dll
+L:\C#\Xadrez\bin\Debug\net8.0\Xadrez.pdb
+L:\C#\Xadrez\obj\Debug\net8.0\Xadrez.GeneratedMSBuildEditorConfig.editorconfig
+L:\C#\Xadrez\obj\Debug\net8.0\Xadrez.AssemblyInfoInputs.cache
+L:\C#\Xadrez\obj\Debug\net8.0\Xadrez.AssemblyInfo.cs
+L:\C#\Xadrez\obj\Debug\net8.0\Xadrez.csproj.CoreCompileInputs.cache
+L:\C#\Xadrez\obj\Debug\net8.0\Xadrez.sourcelink.json
+L:\C#\Xadrez\obj\Debug\net8.0\Xadrez.dll
+L:\C#\Xadrez\obj\Debug\net8.0\refint\Xadrez.dll
+L:\C#\Xadrez\obj\Debug\net8.0\Xadrez.pdb
+L:\C#\Xadrez\obj\Debug\net8.0\Xadrez.genruntimeconfig.cache
+L:\C#\Xadrez\obj\Debug\net8.0\ref\Xadrez.dll
